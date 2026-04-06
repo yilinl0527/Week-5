@@ -8,7 +8,7 @@ function draw() {
   background(20, 0, 0);
   fill(255, 50, 50);
   textSize(80);
-  text("GAMEOVER", width/2, height/2 - 50);
+  text("DEADZONE", width/2, height/2 - 50);
   textSize(24);
   text("You guessed wrong.", width/2, height/2 + 20);
   fill(100, 0, 0);
